@@ -1,4 +1,6 @@
-# llama.cpp
+<img width="1280" height="886" alt="image" src="https://github.com/user-attachments/assets/ce12aae1-768e-499a-9a25-fde1a34f999c" /># llama.cpp
+
+!!!run: /home/z/llama-qwen/llama.cpp/build/bin/llama-cli -m /home/z/llama-qwen/models/qwen2.5-1.5b-instruct-q4_k_m.gguf -cnv
 
 ![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)
 
